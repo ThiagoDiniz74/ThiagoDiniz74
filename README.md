@@ -7,7 +7,7 @@
   <a href="https://github.com/ThiagoDiniz74">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoDiniz74&theme=shadow_red&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDiniz74&layout=compact&langs_count=16&theme=transparent&border_color=007a00&text_color=ffffff&title_color=007a00&locale=pt-br"/>
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ThiagoDiniz74&theme=github-dark&date_format=j%20M%5B%20Y%5D&mode=weekly&border=007a00&ring=007a00&locale=pt_BR&fire=AD3A15"/>
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ThiagoDiniz74&theme=highcontrast&date_format=j%20M%5B%20Y%5D&mode=weekly&border=007a00&ring=007a00&locale=pt_BR&fire=AD3A15"/>
 </div>
 
 ##
