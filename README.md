@@ -17,10 +17,6 @@ Também mantenho um servidor de Counter-Strike 2 em Docker, onde pratico implant
 | --- | --- |
 | [resumo-do-lab](https://github.com/ThiagoDiniz74/resumo-do-lab) | Anotações sobre fundamentos de computação em nuvem. |
 | [projeto](https://github.com/ThiagoDiniz74/projeto) | Exercício em Python com um desafio bancário. |
-## Projetos neste GitHub
-
-| Repositório | O que você encontra |
-| --- | --- |
 | [umbrel-homelab](https://github.com/ThiagoDiniz74/umbrel-homelab) | Documentação do meu servidor com Docker, monitoramento e serviços de rede. |
 | [cs2-retake-server](https://github.com/ThiagoDiniz74/cs2-retake-server) | Servidor CS2 Retake em Docker, com arquitetura e operação documentadas. |
 | [resumo-do-lab](https://github.com/ThiagoDiniz74/resumo-do-lab) | Anotações sobre fundamentos de computação em nuvem. |
