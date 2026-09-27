@@ -22,7 +22,6 @@ Também mantenho um servidor de Counter-Strike 2 em Docker, onde pratico implant
 | [resumo-do-lab](https://github.com/ThiagoDiniz74/resumo-do-lab) | Anotações sobre fundamentos de computação em nuvem. |
 | [projeto](https://github.com/ThiagoDiniz74/projeto) | Exercício em Python com um desafio bancário. |
 
-Os projetos do homelab documentam a arquitetura e a operação observadas. Configurações privadas e dados persistentes ficam fora dos repositórios.
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/thiagodiniz74/) · [Meus repositórios](https://github.com/ThiagoDiniz74?tab=repositories)
